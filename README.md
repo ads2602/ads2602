@@ -64,12 +64,10 @@ Data analyst and data science graduate student with a Master's in Applied Comput
 
 ## Featured Projects
 
-### Multilingual Machine-Generated Text Detection
+### [Multilingual Machine-Generated Text Detection](https://github.com/ads2602/Multilingual-Machine-Generated-Text-Detection)
 `Python` `PyTorch` `HuggingFace` `mBERT` `XLM-R` `BiLSTM` `SVM`
 
 Compared four models (SVM, BiLSTM, mBERT, XLM-R) for detecting AI-generated text across 4 languages on a 26,671-sample multilingual corpus. XLM-R achieved **98.5% accuracy** on seen languages and **78–90% accuracy** on zero-shot transfer to unseen languages (Portuguese, Russian, Dutch).
-
-[View Repository](https://github.com/ads2602/Multilingual-Machine-Generated-Text-Detection)
 
 ---
 
@@ -80,7 +78,7 @@ Classified 10,000 Places-MIT images (indoor vs. outdoor). Benchmarked Decision T
 
 ---
 
-### Vidya Pravaha — Advanced Classroom System
+### [Vidya Pravaha — Advanced Classroom System](https://github.com/ads2602/Vidya-Pravaha)
 `Python` `Django` `SQLite` `JavaScript` `Matplotlib` `Plotly`
 
 A full-stack classroom platform with four role-based modules (admin, teacher, student, parent), covering course management, quiz auto-evaluation, analytics dashboards, and a Q&A chatbot. Registered copyright with the Government of India — **Reg. No. L-147473/2024**.
@@ -96,8 +94,10 @@ A full-stack classroom platform with four role-based modules (admin, teacher, st
   <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=ads2602&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ads2602&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 

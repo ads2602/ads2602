@@ -1,11 +1,99 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">, I'm Aditya</h1>
+<div align="center">
+  <h1>Aditya Vikas Sawant</h1>
+  <h3>Data Analyst | ML Engineer | Master's in Applied Computer Science @ Concordia University</h3>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41bmMwODBhZjl3M2FnaTRndG1tZmc0YmV4YWZoc3ZleHMybmxuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif" width="250"/>
-</p>
+  <a href="https://www.linkedin.com/in/adityasawant01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ads2602">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ads2602&theme=tokyonight-duo" alt="ads2602's GitHub streak" />
-</p>
+## About Me
 
+Data analyst and ML engineer with a Master's in Applied Computer Science (Concordia University) and a Computer Engineering background (University of Mumbai). I translate complex data into actionable insights and build end-to-end machine learning pipelines.
+
+- Currently a **Teaching Assistant** at Concordia University (Software Architecture & Project Management)
+- Previously a **Programmer Analyst Intern at Reliance Jio**, working on campaign analytics and UX testing
+- Experienced with the full data stack: from ETL and dashboarding to deep learning and NLP
+- Based in **Montreal, QC** | Open to **full-time opportunities** in Data Analytics, Data Engineering, and ML
+
+---
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+
+**Data Engineering & BI**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Multilingual Machine-Generated Text Detection
+`Python` `PyTorch` `HuggingFace` `mBERT` `XLM-R` `BiLSTM` `SVM`
+
+Compared four models (SVM, BiLSTM, mBERT, XLM-R) for detecting AI-generated text across 4 languages on a 26,671-sample multilingual corpus. XLM-R achieved **98.5% accuracy** on seen languages and **78–90% accuracy** on zero-shot transfer to unseen languages (Portuguese, Russian, Dutch).
+
+[View Repository](https://github.com/ads2602/Multilingual-Machine-Generated-Text-Detection)
+
+---
+
+### Museum Image Classification — Supervised, Semi-Supervised & Deep Learning
+`Python` `scikit-learn` `XGBoost` `PyTorch` `CNN`
+
+Classified 10,000 Places-MIT images (indoor vs. outdoor). Benchmarked Decision Trees, Random Forest, and XGBoost (~89% accuracy); tuned CNN architectures to **91% test accuracy**; applied semi-supervised self-training on unlabelled data.
+
+---
+
+### Vidya Pravaha — Advanced Classroom System
+`Python` `Django` `SQLite` `JavaScript` `Matplotlib` `Plotly`
+
+A full-stack classroom platform with four role-based modules (admin, teacher, student, parent), covering course management, quiz auto-evaluation, analytics dashboards, and a Q&A chatbot. Registered copyright with the Government of India — **Reg. No. L-147473/2024**.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ads2602&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to full-time roles in Data Analytics, Data Engineering, and Machine Learning — Montreal or Remote.</i>
+</div>

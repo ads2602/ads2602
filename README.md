@@ -90,9 +90,15 @@ A full-stack classroom platform with four role-based modules (admin, teacher, st
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ads2602&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+
+  <img src="https://komarev.com/ghpvc/?username=ads2602&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=ads2602&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+
 </div>
 
 ---

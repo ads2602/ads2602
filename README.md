@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Aditya Vikas Sawant</h1>
-  <h3>Data Analyst | ML Engineer | Master's in Applied Computer Science @ Concordia University</h3>
+  <h3>Data Analyst | NLP & Data Science Researcher | M.Sc. Computer Science @ Concordia University</h3>
 
   <a href="https://www.linkedin.com/in/adityasawant01">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,14 +11,14 @@
   </a>
 
   <br/><br/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41bmMwODBhZjl3M2FnaTRndG1tZmc0YmV4YWZoc3ZleHMybmxuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/12mRllHWXpt4M8/giphy.gif" width="250"/>
 </div>
 
 ---
 
 ## About Me
 
-Data analyst and ML engineer with a Master's in Applied Computer Science (Concordia University) and a Computer Engineering background (University of Mumbai). I translate complex data into actionable insights and build end-to-end machine learning pipelines.
+Data analyst and data science graduate student with a Master's in Applied Computer Science (Concordia University) and a Computer Engineering background (University of Mumbai). I translate complex datasets into actionable insights and have hands-on experience with NLP, machine learning, and BI tools.
 
 - **Teaching Assistant** at Concordia University — SOEN 6841 (Software Project Management) and SOEN 343 (Software Architecture & Design)
 - Previously a **Programmer Analyst Intern at Reliance Jio**, working on campaign analytics and UX testing

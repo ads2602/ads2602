@@ -9,6 +9,9 @@
   <a href="https://github.com/ads2602">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <br/><br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG41bmMwODBhZjl3M2FnaTRndG1tZmc0YmV4YWZoc3ZleHMybmxuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif" width="250"/>
 </div>
 
 ---
@@ -95,5 +98,5 @@ A full-stack classroom platform with four role-based modules (admin, teacher, st
 ---
 
 <div align="center">
-  <i>Open to full-time roles in Data Analytics, Data Engineering, and Machine Learning — Montreal or Remote.</i>
+  <i>Open to full-time roles in Data Analytics, Data Engineering, and Data Science — Canada or Remote.</i>
 </div>

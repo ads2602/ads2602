@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Aditya Vikas Sawant</h1>
-  <h3>Data Analyst | NLP & Data Science Researcher | M.Sc. Computer Science @ Concordia University</h3>
+  <h3>Data Analyst | Data Science & ML Enthusiast | M.Sc. Computer Science @ Concordia University</h3>
 
   <a href="https://www.linkedin.com/in/adityasawant01">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -97,7 +97,7 @@ A full-stack classroom platform with four role-based modules (admin, teacher, st
 
   <img src="https://streak-stats.demolab.com?user=ads2602&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads2602&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" height="165" />
 
 </div>
 

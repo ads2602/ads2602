@@ -95,10 +95,6 @@ A full-stack classroom platform with four role-based modules (admin, teacher, st
 
   <img src="https://streak-stats.demolab.com?user=ads2602&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ads2602&theme=darkhub&no-frame=true&row=1&column=6" />
-
 </div>
 
 ---

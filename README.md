@@ -20,10 +20,10 @@
 
 Data analyst and ML engineer with a Master's in Applied Computer Science (Concordia University) and a Computer Engineering background (University of Mumbai). I translate complex data into actionable insights and build end-to-end machine learning pipelines.
 
-- Currently a **Teaching Assistant** at Concordia University (Software Architecture & Project Management)
+- **Teaching Assistant** at Concordia University — SOEN 6841 (Software Project Management) and SOEN 343 (Software Architecture & Design)
 - Previously a **Programmer Analyst Intern at Reliance Jio**, working on campaign analytics and UX testing
 - Experienced with the full data stack: from ETL and dashboarding to deep learning and NLP
-- Based in **Montreal, QC** | Open to **full-time opportunities** in Data Analytics, Data Engineering, and ML
+- Based in **Montreal, Canada** | Open to **full-time opportunities** in Data Analytics, Data Engineering, and Data Science
 
 ---
 

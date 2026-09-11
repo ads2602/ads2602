@@ -71,7 +71,7 @@ Compared four models (SVM, BiLSTM, mBERT, XLM-R) for detecting AI-generated text
 
 ---
 
-### Museum Image Classification — Supervised, Semi-Supervised & Deep Learning
+### [Museum Image Classification — Supervised, Semi-Supervised & Deep Learning](https://github.com/ads2602/Lex_AI_AppliedAI_COMP6721.git)
 `Python` `scikit-learn` `XGBoost` `PyTorch` `CNN`
 
 Classified 10,000 Places-MIT images (indoor vs. outdoor). Benchmarked Decision Trees, Random Forest, and XGBoost (~89% accuracy); tuned CNN architectures to **91% test accuracy**; applied semi-supervised self-training on unlabelled data.
